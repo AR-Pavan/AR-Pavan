@@ -18,8 +18,10 @@ I am an enthusiastic MERN stack Developer in India.I love creating and building 
 <a href="https://www.instagram.com/a.r.pavan/"><img align="left" src="https://github.com/AR-Pavan/AR-Pavan/blob/main/instagram.svg" alt="Annam Raghu Pavan | Instagram" width="21px"/></a>
 
 </br>
+</br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
+<br />
 ## 🔭 I'm currently working on
 
 - React.JS project
@@ -52,18 +54,11 @@ I am an enthusiastic MERN stack Developer in India.I love creating and building 
 
 ## 📈 GitHub Stats 
 
-[![Annam Raghu Pavan's github stats](https://github-readme-stats.vercel.app/api?username=AR-Pavan)](https://github.com/AR-Pavan)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=AR-Pavan.AR-Pavan)](https://github.com/AR-Pavan)
-
-
-
-
-
 [![Annam Raghu Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AR-Pavan&theme=synthwave&show_icons=true)](https://github.com/AR-Pavan/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AR-Pavan&theme=synthwave&layout=compact&show_icons=true)](https://github.com/AR-Pavan/github-readme-stats)
 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=AR-Pavan.AR-Pavan)](https://github.com/AR-Pavan)
 <br />
 
 
