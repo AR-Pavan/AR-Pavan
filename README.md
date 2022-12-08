@@ -1,2 +1,2 @@
 ### Hi there 👋
-![alt text](https://{https://developerguru.in/data1/images/mern-stack.png} “Banner”)
+![alt text](https://developerguru.in/data1/images/mern-stack.png “Banner”)
