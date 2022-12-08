@@ -3,7 +3,7 @@
 
 
 
-[![Annam Raghu Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AR-Pavan&theme=synthwave)](https://github.com/AR-Pavan/github-readme-stats)
+[![Annam Raghu Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AR-Pavan&theme=synthwave&show_icons=true)](https://github.com/AR-Pavan/github-readme-stats)
 
 
 
