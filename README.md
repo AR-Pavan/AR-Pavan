@@ -3,7 +3,7 @@
 
 
 
-
+[![Annam Raghu Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AR-Pavan)](https://github.com/AR-Pavan/github-readme-stats)
 
 ![api](https://user-images.githubusercontent.com/93469725/206487307-b62927b0-a8f1-471a-a578-3b15a6c272d7.svg)
 
