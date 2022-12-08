@@ -7,5 +7,6 @@
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AR-Pavan&theme=synthwave&layout=compact&show_icons=true)](https://github.com/AR-Pavan/github-readme-stats)
 
-
+<br />
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
